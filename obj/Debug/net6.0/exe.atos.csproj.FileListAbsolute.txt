@@ -1,0 +1,15 @@
+C:\Ambiente\projetos\6-semestre\exe.atos\bin\Debug\net6.0\exe.atos.exe
+C:\Ambiente\projetos\6-semestre\exe.atos\bin\Debug\net6.0\exe.atos.deps.json
+C:\Ambiente\projetos\6-semestre\exe.atos\bin\Debug\net6.0\exe.atos.runtimeconfig.json
+C:\Ambiente\projetos\6-semestre\exe.atos\bin\Debug\net6.0\exe.atos.dll
+C:\Ambiente\projetos\6-semestre\exe.atos\bin\Debug\net6.0\exe.atos.pdb
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.csproj.AssemblyReference.cache
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.AssemblyInfoInputs.cache
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.AssemblyInfo.cs
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.csproj.CoreCompileInputs.cache
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.dll
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\refint\exe.atos.dll
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.pdb
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\exe.atos.genruntimeconfig.cache
+C:\Ambiente\projetos\6-semestre\exe.atos\obj\Debug\net6.0\ref\exe.atos.dll
